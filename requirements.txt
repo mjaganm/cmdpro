@@ -1,2 +1,11 @@
-# No external dependencies required
-# Standard library only: sys, re
+# Core dependencies (standard library - no external packages required for rule-based)
+# Optional: ollama (Python client) for ML features
+# Install with: pip install ollama requests
+
+# Minimal setup for rule-based CommandPro:
+# Just Python 3.7+, no external packages needed
+
+# Enhanced ML setup:
+# pip install ollama requests
+# Plus have Ollama installed and running locally
+
